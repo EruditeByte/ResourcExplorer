@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+<!---------ResourcExplorer Utility Card Sources--------->
+
+<AT_TabResourcExplorer>Explore me!</AT_TabResourcExplorer>
+<AT_Mine>this resource has to be mined or dug out of the ground and can be made into these products:</AT_Mine>
+<AT_Plant>this resource can either be foraged in nature or harvested from farmland and can be made into these products: </AT_Plant>
+<AT_Animal>this resource can be gathered from animals and can be made into these products: </AT_Animal>
+<AT_Craft>this resource can be producted from the following buildings: </AT_Craft>
+
+
+
+</LanguageData>
