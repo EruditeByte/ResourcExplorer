@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+<!--- ResourcExplorer Utility Card Sources --->
+
+<AT_TabResourcExplorer>Explore Me!</AT_TabResourcExplorer>
+<AT_Mine>this resource has to be mined or dug out of the ground and can be made into these products:</AT_Mine>
+<AT_Plant>this resource can either be foraged in nature or harvested from farmland and can be made into these products: </AT_Plant>
+<AT_Animal>this resource can be gathered from animals and can be made into these products: </AT_Animal>
+<AT_CraftSource>this resource can be produced from the following buildings: </AT_CraftSource>
+<AT_CraftProducts> and can be made into these products</AT_CraftProducts>
+<AT_Misc>this resource has no known source, at least any known by current-day humans, but can still be made into these products:</AT_Misc>
+<AT_MealHeader>Meals</AT_MealHeader>
+<AT_ManufactureHeader>Manufactured Resources</AT_ManufactureHeader>
+<AT_ConstructHeader>Construction Materials</AT_ConstructHeader>
+<AT_PharmaHeader>Medicines/Drugs</AT_PharmaHeader>
+<AT_ClothesHeader>Apparel/Gear</AT_ClothesHeader>
+<AT_WeaponHeader>Weapons</AT_WeaponHeader>
+<AT_ArmorHeader>Armor</AT_ArmorHeader>
+<AT_BuildHeader>Buildings</AT_BuildHeader>
+<AT_MiscHeader>Misc.</AT_MiscHeader>
+
+
+
+</LanguageData>

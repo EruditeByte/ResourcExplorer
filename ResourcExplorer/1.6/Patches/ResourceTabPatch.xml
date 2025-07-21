@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+
+<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[@ParentName = "ResourceBase"]</xpath>
+		<value>
+			<inspectorTabs>
+			<li>ResourcExplorer.ITab_ResourcExplorer</li>
+			</inspectorTabs>
+		</value>
+	</Operation>
+
+</Patch>
